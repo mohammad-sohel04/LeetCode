@@ -1,18 +1,15 @@
 class Solution {
-    public int singleNonDuplicate(int[] arr) {
-        int low =0,high=arr.length-1;
-        while(low<high){
-          int mid=(low)+(high-low)/2;
-          if(mid%2!=0)mid--;
-          if(arr[mid]==arr[mid+1]){
-              low=mid+2;
-          }
-          else{
-            high=mid;
-          }
-          
-
+    public int singleNonDuplicate(int[] nums) {
+        if(nums.length==1)return nums[0];
+        if(nums[0]!=nums[1])return nums[0];
+        int n=nums.length;
+        if(nums[n-1]!=nums[n-2]){
+          return nums[n-1];
         }
-        return arr[high];
+        int ans=0;
+        for(int x:nums){
+          ans^=x;
+        }
+        return ans;
     }
 }
