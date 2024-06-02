@@ -18,3 +18,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
+# String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
