@@ -1,42 +1,26 @@
 class MyStack {
-  Queue<Integer>q;
-  Queue<Integer>ref;
+    Queue<Integer>st;
     public MyStack() {
-        q=new ArrayDeque<>();
-        ref=new ArrayDeque<>();
+        st=new ArrayDeque<>();
     }
     
     public void push(int x) {
-        q.add(x);
+        st.add(x);
+        for(int i=0;i<st.size()-1;i++){
+          st.add(st.poll());
+        }
     }
     
     public int pop() {
-        if(q.isEmpty())return -1;
-        while(q.size()!=1){
-          ref.add(q.poll());
-        }
-        int val= q.poll();
-        while(!ref.isEmpty()){
-          q.add(ref.poll());
-        }
-        return val;
+        return st.poll();
     }
     
     public int top() {
-        if(q.isEmpty())return -1;
-        while(q.size()!=1){
-          ref.add(q.poll());
-        }
-        int val= q.poll();
-        while(!ref.isEmpty()){
-          q.add(ref.poll());
-        }
-        q.add(val);
-        return val;   
+        return st.peek();
     }
     
     public boolean empty() {
-        return q.isEmpty();
+        return st.isEmpty();
     }
 }
 
