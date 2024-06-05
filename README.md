@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/mohammad-sohel04/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammad-sohel04/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 # Queue
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/1044-find-common-characters) |
@@ -79,3 +81,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0496-next-greater-element-i) |
+# Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
