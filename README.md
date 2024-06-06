@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/1044-find-common-characters) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/mohammad-sohel04/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohammad-sohel04/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammad-sohel04/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -91,3 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0032-longest-valid-parentheses) |
