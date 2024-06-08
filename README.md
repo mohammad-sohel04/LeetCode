@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/1044-find-common-characters) |
@@ -148,3 +150,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
