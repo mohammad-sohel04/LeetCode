@@ -1,64 +1,46 @@
-
-
- class Pair{
-      int x,y;
-      int time;
-      public Pair(int x,int y,int time){
-        this.x=x;
-        this.y=y;
-        this.time=time;
-      }
-  }
-
 class Solution {
+  class Pair{
+    int x;int y;
+    Pair(int x,int y){
+      this.x=x;
+      this.y=y;
+    }
+  }
     public int orangesRotting(int[][] grid) {
-        int  m=grid.length;
-        int n=grid[0].length;
-        
-
-        Queue<Pair>q=new LinkedList<>();
+        Queue<Pair>q=new ArrayDeque<>();
         int fresh=0;
-        for(int i=0;i<m;i++){
-          for(int j=0;j<n;j++){
+        for(int i=0;i<grid.length;i++){
+          for(int j=0;j<grid[0].length;j++){
             if(grid[i][j]==2){
-              q.offer(new Pair(i,j,0));
-              
+              q.add(new Pair(i,j));
             }
-           
-            if(grid[i][j]==1){
+            else if(grid[i][j]==1){
               fresh++;
             }
           }
         }
-        if(fresh==0){return 0;}
-        int[]drow={-1,0,1,0};
-        int[]dcol={0,1,0,-1};
+        if(fresh==0)return 0;
         int time=0;
-        while(!q.isEmpty()){
-          
-          int size=q.size();
-          for(int k=0;k<size;k++){
-            Pair cur=q.poll();
-            for(int i=0;i<4;i++){
-            int r=cur.x+drow[i];
-            int c=cur.y+dcol[i];
-
-            if(r>=0 && c>=0 && r<m && c<n && grid[r][c]==1){
-              q.offer(new Pair(r,c,cur.time+1));
+        int row[]={1,0,-1,0};
+        int col[]={0,1,0,-1};
+      while(!q.isEmpty()){
+        int cnt=q.size();
+        for(int i=0;i<cnt;i++){  
+          Pair cur=q.poll();
+          int curR=cur.x;
+          int curC=cur.y;
+          for(int k=0;k<4;k++){
+            int nr = curR+row[k];
+            int nc = curC+col[k];
+            if(nr>=0 && nr<grid.length && nc>=0 && nc<grid[0].length && grid[nr][nc]==1){
+              grid[nr][nc]=2;
               fresh--;
-              grid[r][c]=2;
-            }
-            
+              q.add(new Pair(nr,nc));
             }
           }
-         time++;
-          
-
         }
-       
-        return fresh==0?time-1:-1;
-
-
+        time++;  
+      }
+      return fresh==0? time-1:-1;
     }
-   
 }
