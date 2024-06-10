@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/mohammad-sohel04/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Binary Search
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Heap (Priority Queue)
 |  |
@@ -162,3 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mohammad-sohel04/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
