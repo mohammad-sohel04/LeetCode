@@ -13,6 +13,7 @@ class Solution {
           else {
             swap(nums,mid,high);
             high--;
+           // mid++;
           }
         }
     }
