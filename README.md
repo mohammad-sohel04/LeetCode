@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/mohammad-sohel04/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohammad-sohel04/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammad-sohel04/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0460-lfu-cache) |
 # Queue
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0409-longest-palindrome) |
+| [0460-lfu-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0648-replace-words) |
@@ -121,10 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0460-lfu-cache) |
 # Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/mohammad-sohel04/LeetCode/tree/master/0460-lfu-cache) |
 # Dynamic Programming
 |  |
 | ------- |
