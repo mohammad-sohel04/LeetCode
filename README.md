@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/mohammad-sohel04/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohammad-sohel04/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohammad-sohel04/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/mohammad-sohel04/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohammad-sohel04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
