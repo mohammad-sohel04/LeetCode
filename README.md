@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/mohammad-sohel04/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0648-replace-words) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/mohammad-sohel04/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/mohammad-sohel04/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohammad-sohel04/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0502-ipo](https://github.com/mohammad-sohel04/LeetCode/tree/master/0502-ipo) |
 # Quickselect
 |  |
 | ------- |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/mohammad-sohel04/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohammad-sohel04/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
