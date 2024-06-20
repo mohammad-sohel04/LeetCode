@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/mohammad-sohel04/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohammad-sohel04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/mohammad-sohel04/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/mohammad-sohel04/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1675-magnetic-force-between-two-balls](https://github.com/mohammad-sohel04/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohammad-sohel04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
