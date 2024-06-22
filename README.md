@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/mohammad-sohel04/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mohammad-sohel04/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohammad-sohel04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/mohammad-sohel04/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Monotonic Stack
 |  |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
