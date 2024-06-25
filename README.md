@@ -167,14 +167,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammad-sohel04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammad-sohel04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammad-sohel04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Sliding Window
 |  |
 | ------- |
@@ -215,3 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/mohammad-sohel04/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
