@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/mohammad-sohel04/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/mohammad-sohel04/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mohammad-sohel04/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/mohammad-sohel04/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/mohammad-sohel04/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -168,16 +170,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammad-sohel04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammad-sohel04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohammad-sohel04/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Sliding Window
 |  |
 | ------- |
@@ -222,3 +227,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
