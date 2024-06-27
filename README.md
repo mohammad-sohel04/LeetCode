@@ -228,3 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/mohammad-sohel04/LeetCode/tree/master/1916-find-center-of-star-graph) |
