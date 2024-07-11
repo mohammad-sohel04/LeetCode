@@ -333,9 +333,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mohammad-sohel04/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mohammad-sohel04/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
