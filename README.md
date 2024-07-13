@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
