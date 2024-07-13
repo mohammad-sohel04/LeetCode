@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohammad-sohel04/LeetCode/tree/master/0011-container-with-most-water) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohammad-sohel04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mohammad-sohel04/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohammad-sohel04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohammad-sohel04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
