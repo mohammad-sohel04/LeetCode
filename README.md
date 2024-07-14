@@ -264,11 +264,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohammad-sohel04/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohammad-sohel04/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mohammad-sohel04/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -289,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohammad-sohel04/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mohammad-sohel04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -400,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mohammad-sohel04/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
