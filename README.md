@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/mohammad-sohel04/LeetCode/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
