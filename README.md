@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohammad-sohel04/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mohammad-sohel04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohammad-sohel04/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/mohammad-sohel04/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -419,5 +421,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
