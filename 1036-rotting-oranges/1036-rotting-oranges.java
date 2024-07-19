@@ -1,46 +1,75 @@
-class Solution {
-  class Pair{
-    int x;int y;
-    Pair(int x,int y){
-      this.x=x;
-      this.y=y;
-    }
+class Pair{
+  int row, col;
+  Pair(int row,int col){
+    this.row=row;
+    this.col=col;
   }
+}
+class Solution {
     public int orangesRotting(int[][] grid) {
-        Queue<Pair>q=new ArrayDeque<>();
         int fresh=0;
+        Queue<Pair>q=new LinkedList<>();
         for(int i=0;i<grid.length;i++){
           for(int j=0;j<grid[0].length;j++){
+            if(grid[i][j]==1)fresh++;
             if(grid[i][j]==2){
-              q.add(new Pair(i,j));
-            }
-            else if(grid[i][j]==1){
-              fresh++;
+              q.offer(new Pair(i,j));
             }
           }
         }
         if(fresh==0)return 0;
-        int time=0;
-        int row[]={1,0,-1,0};
-        int col[]={0,1,0,-1};
-      while(!q.isEmpty()){
-        int cnt=q.size();
-        for(int i=0;i<cnt;i++){  
+        int ans=0;
+        while(!q.isEmpty()){
+        int siz=q.size();
+        for(int k=0;k<siz;k++){  
           Pair cur=q.poll();
-          int curR=cur.x;
-          int curC=cur.y;
-          for(int k=0;k<4;k++){
-            int nr = curR+row[k];
-            int nc = curC+col[k];
-            if(nr>=0 && nr<grid.length && nc>=0 && nc<grid[0].length && grid[nr][nc]==1){
-              grid[nr][nc]=2;
-              fresh--;
-              q.add(new Pair(nr,nc));
-            }
+          int i=cur.row;
+          int j=cur.col;
+          int r=0;int c=0;
+          //System.out.println(i+" "+j);
+          boolean flag=false;
+          //up
+          r=i-1;
+          c=j;
+          if(r>=0 && r<grid.length && grid[r][c]==1){
+            fresh--;
+            grid[r][c]=2;
+            flag=true;
+            q.add(new Pair(r,c));
           }
+          //down
+          r=i+1;
+          c=j;
+          if(r>=0 && r<grid.length && grid[r][c]==1){
+            grid[r][c]=2;
+            flag=true;
+            fresh--;
+            q.add(new Pair(r,c));
+          }
+          //left
+          r=i;
+          c=j-1;
+          if(c>=0 && c<grid[0].length && grid[r][c]==1){
+            grid[r][c]=2;
+            fresh--;
+            flag=true;
+            q.add(new Pair(r,c));
+          }
+          //right
+          r=i;
+          c=j+1;
+          if(c>=0 && c<grid[0].length && grid[r][c]==1){
+            grid[r][c]=2;
+            fresh--;
+            flag=true;
+            q.add(new Pair(r,c));
+          }
+          if(flag);
         }
-        time++;  
-      }
-      return fresh==0? time-1:-1;
+        ans++;
+        }
+        //for(int row[]:grid)System.out.println(Arrays.toString(row));
+        if(ans>0)ans--;
+        return fresh==0 ? ans:-1;
     }
 }
