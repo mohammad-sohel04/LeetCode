@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohammad-sohel04/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/mohammad-sohel04/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0125-valid-palindrome) |
@@ -427,4 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
