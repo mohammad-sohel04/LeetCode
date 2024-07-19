@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/mohammad-sohel04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/mohammad-sohel04/LeetCode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
