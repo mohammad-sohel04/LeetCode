@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohammad-sohel04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohammad-sohel04/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Two Pointers
 |  |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohammad-sohel04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/mohammad-sohel04/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohammad-sohel04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -436,4 +438,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mohammad-sohel04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
