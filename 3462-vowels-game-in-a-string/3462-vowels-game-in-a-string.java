@@ -8,7 +8,6 @@ class Solution {
           else if(ch=='e'|| ch=='i' || ch=='o' || ch=='u')vow++;
         }
         if(vow==0)return false;
-        if(vow%2!=0)return true;
-        else return true;
+        return true;
     }
 }
