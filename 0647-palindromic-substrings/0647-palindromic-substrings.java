@@ -1,8 +1,9 @@
 class Solution {
     public int countSubstrings(String s) {
-      int ans=0;    
+      int ans=s.length();    
         for(int i=0;i<s.length();i++){
           for(int j=i;j<s.length();j++){
+            if(j-i+1==1)continue;
             if(isPal(s,i,j))ans++;
           }
         }
