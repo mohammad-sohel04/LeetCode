@@ -9,11 +9,10 @@ class Solution {
         int n=s.length();
         String s2=sb.reverse().toString();
         for(int i=0;i<=n;i++){
-          for(int j=0;j<=n;j++){
-            if(i==0 || j==0){
-              dp[i][j]=0;
-            }
-          }
+          dp[i][0]=0;
+        }
+        for(int j=0;j<=n;j++){
+          dp[0][j]=0;
         }
         for(int i=1;i<=n;i++){
           for(int j=1;j<=n;j++){
