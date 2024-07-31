@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
+| [1196-filling-bookcase-shelves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohammad-sohel04/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/mohammad-sohel04/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/mohammad-sohel04/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammad-sohel04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/mohammad-sohel04/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1196-filling-bookcase-shelves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mohammad-sohel04/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/mohammad-sohel04/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohammad-sohel04/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
