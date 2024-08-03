@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/mohammad-sohel04/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mohammad-sohel04/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohammad-sohel04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/mohammad-sohel04/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/mohammad-sohel04/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammad-sohel04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/mohammad-sohel04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammad-sohel04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Merge Sort
 |  |
 | ------- |
