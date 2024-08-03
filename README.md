@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/mohammad-sohel04/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/mohammad-sohel04/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mohammad-sohel04/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohammad-sohel04/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohammad-sohel04/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0189-rotate-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohammad-sohel04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mohammad-sohel04/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohammad-sohel04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
