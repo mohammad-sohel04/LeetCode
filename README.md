@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/mohammad-sohel04/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/mohammad-sohel04/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohammad-sohel04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohammad-sohel04/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0054-spiral-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohammad-sohel04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohammad-sohel04/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2846-robot-collisions](https://github.com/mohammad-sohel04/LeetCode/tree/master/2846-robot-collisions) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohammad-sohel04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
