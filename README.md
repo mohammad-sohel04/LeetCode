@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/mohammad-sohel04/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohammad-sohel04/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mohammad-sohel04/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/mohammad-sohel04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Database
 |  |
 | ------- |
@@ -493,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mohammad-sohel04/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/mohammad-sohel04/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1036-rotting-oranges](https://github.com/mohammad-sohel04/LeetCode/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mohammad-sohel04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
