@@ -7,7 +7,7 @@ class Solution {
         int cur=1;
         int ans=0;
         Arrays.sort(freq);
-        System.out.println(Arrays.toString(freq));
+        //System.out.println(Arrays.toString(freq));
         for(int i=25;i>=0 ;i--){
             if(cur<=8){
               ans+=1*freq[i];
