@@ -405,12 +405,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/mohammad-sohel04/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohammad-sohel04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/mohammad-sohel04/LeetCode/tree/master/0044-wildcard-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mohammad-sohel04/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/mohammad-sohel04/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mohammad-sohel04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/mohammad-sohel04/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/mohammad-sohel04/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammad-sohel04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/mohammad-sohel04/LeetCode/tree/master/0044-wildcard-matching) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohammad-sohel04/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/mohammad-sohel04/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/mohammad-sohel04/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1196-filling-bookcase-shelves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -474,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/mohammad-sohel04/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Tree
 |  |
 | ------- |
