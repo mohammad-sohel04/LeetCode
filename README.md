@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/mohammad-sohel04/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mohammad-sohel04/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/mohammad-sohel04/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mohammad-sohel04/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/mohammad-sohel04/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/mohammad-sohel04/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/mohammad-sohel04/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Memoization
 |  |
 | ------- |
