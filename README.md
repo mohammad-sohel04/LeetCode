@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohammad-sohel04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/mohammad-sohel04/LeetCode/tree/master/0044-wildcard-matching) |
+| [0605-can-place-flowers](https://github.com/mohammad-sohel04/LeetCode/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mohammad-sohel04/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/mohammad-sohel04/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mohammad-sohel04/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/mohammad-sohel04/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mohammad-sohel04/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0605-can-place-flowers](https://github.com/mohammad-sohel04/LeetCode/tree/master/0605-can-place-flowers) |
 | [0729-my-calendar-i](https://github.com/mohammad-sohel04/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohammad-sohel04/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0948-sort-an-array](https://github.com/mohammad-sohel04/LeetCode/tree/master/0948-sort-an-array) |
